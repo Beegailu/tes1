@@ -14,7 +14,7 @@ const questions = [
         ]
     },
     {
-        question: "Pertanyaan inti, sudah makan Dil?",
+        question: "Pertanyaan inti, sudah makan?",
         answers: [
             { text: "Sudah dong", correct: true},
             { text: "Belum nih", correct: false},
